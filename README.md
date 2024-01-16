@@ -1,3 +1,3 @@
-# Template de Currículo 
+# Made By TheDesiredTwo From QC Devs
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+Here Is Yall A Free Open Source Resume.
